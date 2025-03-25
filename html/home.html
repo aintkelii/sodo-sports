@@ -127,6 +127,44 @@
           <a href="tel:+254799345432">0799345432</a>
         </p>
       </div>
+      <h1 id="about us">About Us</h1>
+        <div class="form-container">
+        <h2>Add New Entry</h2>
+        <div class="form-group">
+            <label for="organization">Organization Name:</label>
+            <input type="text" id="organization" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="coach">Coach Name:</label>
+            <input type="text" id="coach" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="player">Player Name:</label>
+            <input type="text" id="player" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="injury">Injury Type:</label>
+            <select id="injury">
+                <option value="">No injury</option>
+                <option value="Sprain">Sprain</option>
+                <option value="Strain">Strain</option>
+                <option value="Fracture">Fracture</option>
+                <option value="Concussion">Concussion</option>
+                <option value="Tendinitis">Tendinitis</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+        
+        <button id="addBtn">Add to Team</button>
+    </div>
+    
+    <h2>Team Data</h2>
+    <div class="data-container" id="teamsContainer">
+        <!-- Teams will be displayed here -->
+    </div>
     
 
 <script src="/js/home.js"></script>    
