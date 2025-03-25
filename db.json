@@ -1,0 +1,46 @@
+{
+    "Organisation": [
+        {"id": 1, "name":"ulinzi stars"},
+        {"id": 2, "name":"Shabana fc"},
+        {"id": 3, "name":"Gor mahia"},
+        {"id":4, "name":"kariobangi sharks"},
+        {"id":5, "name":"tusker fc"} 
+    ],
+    "coach": [
+        {"id":1, "name":"kostanis"},
+        {"id":2, "name":"kontan"},
+        {"id":3, "name":"shakur"},
+        {"id":4, "name":"kamunge"},
+        {"id":5, "name":"sdafa"}
+    ],
+    "doctors":[
+        {"id":"r", "name":"demaria"},
+        {"id":"s", "name":"kongo"},
+        {"id":"t", "name":"william"},
+        {"id":"u", "name":"juju"},
+        {"id":"v", "name":"samba"}
+    ],
+    "typeOfInjury":[
+        {"id":"r", "name":"uncle issues"},
+        {"id":"s", "name":"arm issues"},
+        {"id":"t", "name":"head realated"},
+        {"id":"u", "name":"shoulder issues"},
+        {"id":"v", "name":"back issue"}
+    ],
+    "timeTakenToHeal":[
+        {"id":"r", "name":"6mounths"},
+        {"id":"s", "name":"2mounths"},
+        {"id":"t", "name":"1yr"},
+        {"id":"u", "name":"8months"},
+        {"id":"v", "name":"2yr"}
+
+    ],
+    "locationOfDoctor": [
+        {"id":"r", "name":"ruiru"},
+        {"id":"s", "name":"Kenol"},
+        {"id":"t", "name":"Nairobi"},
+        {"id":"t", "name":"machakos"},
+        {"id":"u", "name":"kiambu"},
+        {"id":"v", "name":"naivasha"}
+    ]         
+}
