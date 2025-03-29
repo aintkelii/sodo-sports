@@ -30,9 +30,9 @@ Preferred doctor selection
 
 Technical Stack
 Frontend
-HTML5: Semantic structure and content
+HTML: Semantic structure and content
 
-CSS3: Styling and responsive design
+CSS: Styling and responsive design
 
 JavaScript: Form handling and dynamic content
 
